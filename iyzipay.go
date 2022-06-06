@@ -2,7 +2,7 @@ package Iyzipay
 
 import (
 	"github.com/go-resty/resty/v2"
-	"github.com/icobani/iyzipay-go/Utils"
+	"github.com/lutfuahmet/iyzi/Utils"
 	"strings"
 )
 
