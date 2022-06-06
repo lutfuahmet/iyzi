@@ -1,4 +1,4 @@
-module github.com/lutfuahmet/iyzipay-go
+module github.com/lutfuahmet/iyzi
 
 go 1.15
 
