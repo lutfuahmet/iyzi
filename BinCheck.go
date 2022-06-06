@@ -1,7 +1,6 @@
 package Iyzipay
 
 import (
-	"fmt"
 	"encoding/json"
 	"github.com/icobani/iyzipay-go/Request"
 	"github.com/icobani/iyzipay-go/Response"
