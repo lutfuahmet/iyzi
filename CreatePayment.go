@@ -3,8 +3,8 @@ package Iyzipay
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/icobani/iyzipay-go/Request"
-	"github.com/icobani/iyzipay-go/Response"
+	"github.com/lutfuahmet/iyzipay-go/Request"
+	"github.com/lutfuahmet/iyzipay-go/Response"
 )
 
 func (i Iyzipay) CreatePayment(obj *Request.CreatePaymentRequest) (Response.CreatePaymentResponse, error) {
