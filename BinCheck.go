@@ -2,8 +2,8 @@ package Iyzipay
 
 import (
 	"encoding/json"
-	"github.com/icobani/iyzi/Request"
-	"github.com/icobani/iyzi/Response"
+	"github.com/lutfuahmet/iyzi/Request"
+	"github.com/lutfuahmet/iyzi/Response"
 )
 
 func (i Iyzipay) BinCheck(obj *Request.BinCheckRequest) (Response.BinCheckResponse, error) {
