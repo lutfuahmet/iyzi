@@ -2,7 +2,7 @@ package Iyzipay
 
 import (
 	"encoding/json"
-	"github.com/icobani/iyzipay-go/Response"
+	"github.com/lutfuahmet/iyzi/Response"
 )
 
 func (i Iyzipay) HealtCheck() (*Response.HealtCheckResponse, error) {
